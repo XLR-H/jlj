@@ -12,7 +12,6 @@
 
 .body {
     background-color: #ccc;
-
 }
 
 .header {
@@ -65,6 +64,7 @@
 
 .main__content {
     /* background-color: #999; */
+    flex-direction: row;
     margin: 16px;
     font-family: Arial, Helvetica, sans-serif;
     width: 40%;
