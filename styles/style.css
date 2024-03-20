@@ -66,6 +66,7 @@
     flex-direction: row;
     background-color: aqua;
     width: 70%;
+    margin: 16px;
 }
 
 .main__content__body__text {
