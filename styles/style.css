@@ -58,6 +58,7 @@
 }
 
 .main__content__body {
+    display: flex;
     flex-direction: row;
     background-color: aqua;
 }
