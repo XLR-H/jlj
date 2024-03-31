@@ -218,6 +218,10 @@
         align-items: center;
     }
 
+    .main__intro__image {
+        width: 40%;
+    }
+
     .main__image {
         width: 70%;
     }
