@@ -86,7 +86,7 @@
     margin: 16px;
     /* width: 80%; */
     background-color: var(--color-bg);
-    /* background-color: yellow; */
+    background-color: yellow;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
     border-radius: 65px;
 }
@@ -232,12 +232,13 @@
     }
 
     .main__content {
-        width: 70%;
+        /* yellow */
+        width: 380px;
     }
 
     .main__content__intro {
         /* yellowgreen */
-        width: 400px;
+        width: 380px;
        
     }
 
