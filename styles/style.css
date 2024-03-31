@@ -233,4 +233,8 @@
     .main__content__title {
         font-size: 1.5rem;
     }
+
+    .main__content__body__text {
+        font-size: 0.75rem;
+    }
 }
