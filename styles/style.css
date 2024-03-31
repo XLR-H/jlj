@@ -238,6 +238,11 @@
         width: 380px;
     }
 
+    .main__content__image {
+        width: 200px;
+        margin: 12px;
+    }
+
     .main__content__intro {
         /* yellowgreen */
         width: 380px;
