@@ -199,7 +199,7 @@
     }
 
 .header__text {
-    font-size: 1.5rem;
+    font-size: 0.5rem;
     
 }
 
@@ -230,4 +230,7 @@
         width: 70%;
     }
 
+    .main__content__title {
+        font-size: 1rem;
+    }
 }
