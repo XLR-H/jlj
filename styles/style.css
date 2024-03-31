@@ -75,7 +75,7 @@
     border-radius: 65px;
     /* width: 80%; */
     background-color: var(--color-bg);
-    /* background-color: yellowgreen; */
+    background-color: yellowgreen;
 }
 
 .main__content {
@@ -198,10 +198,10 @@
         align-items: center;
     }
 
-.header__text {
-    font-size: 0.75rem;
-    
-}
+    .header__text {
+        font-size: 0.75rem;
+
+    }
 
     .header__menu {
         padding: 8px;
@@ -238,7 +238,7 @@
     .main__content__intro {
         width: 100%;
     }
-    
+
     .main__content__title {
         font-size: 1.5rem;
     }
