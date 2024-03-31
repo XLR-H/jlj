@@ -254,7 +254,12 @@
     }
 
     .main__content__title2 {
+        margin: 8px;
         padding: 4px;
+    }
+
+    .main__content__body {
+        margin: 8px;s
     }
 
     .main__content__body__text {
