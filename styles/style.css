@@ -241,6 +241,7 @@
     .main__content__image {
         width: 200px;
         margin: 12px;
+        border-radius: 8px;
     }
 
     .main__content__intro {
@@ -254,7 +255,7 @@
     }
 
     .main__content__title2 {
-        margin: 8px;
+        margin: 0;
         padding: 4px;
     }
 
