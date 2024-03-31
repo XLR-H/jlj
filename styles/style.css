@@ -198,6 +198,11 @@
         align-items: center;
     }
 
+.header__text {
+    font-size: 1.5rem;
+    
+}
+
     .header__menu {
         padding: 8px;
         gap: 12px;
