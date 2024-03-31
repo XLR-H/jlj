@@ -236,7 +236,8 @@
     }
 
     .main__content__intro {
-        width: 100%;
+        /* yellowgreen */
+        width: 550px;
     }
 
     .main__content__title {
