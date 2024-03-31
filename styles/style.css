@@ -220,6 +220,7 @@
 
     .main__intro__image {
         width: 40%;
+        margin: 12px;
     }
 
     .main__image {
@@ -234,6 +235,10 @@
         width: 70%;
     }
 
+    .main__content__intro {
+        width: 100%;
+    }
+    
     .main__content__title {
         font-size: 1.5rem;
     }
