@@ -234,7 +234,7 @@
     .main__content {
         /* yellow */
         display: flex;
-        flex-direction: columm;
+        flex-direction: column;
         width: 380px;
     }
 
