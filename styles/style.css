@@ -226,7 +226,7 @@
     
     .main__intro {
         border-radius: 32px;
-        width: 320px;
+        width: 350px;
         display: flex;
         flex-direction: column;
         box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
@@ -259,7 +259,7 @@
         /* yellow */
         display: flex;
         flex-direction: column;
-        width: 320px;
+        width: 350px;
         border-radius: 32px;
         box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
     }
